@@ -1,0 +1,24 @@
+{
+  "name": "gh-redux",
+  "version": "1.0.0",
+  "description": "GitHub API playground in Reacr + Redux",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sircelsius/gh-redux.git"
+  },
+  "keywords": [
+    "GitHub",
+    "Redux",
+    "React"
+  ],
+  "author": "Marc Bramaud <marc.bramaud@goeuro.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sircelsius/gh-redux/issues"
+  },
+  "homepage": "https://github.com/sircelsius/gh-redux"
+}
