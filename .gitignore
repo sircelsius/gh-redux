@@ -35,3 +35,12 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# build folder
+build
+
+# IntelliJ files
+.idea
+
+# GitHub pages
+gh-pages
