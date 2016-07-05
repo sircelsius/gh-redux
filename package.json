@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/sircelsius/gh-redux/issues"
   },
-  "homepage": "https://github.com/sircelsius/gh-redux"
+  "homepage": "https://github.com/sircelsius/gh-redux",
+  "dependencies": {
+    "react": "^15.2.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.3.1"
+  }
 }
