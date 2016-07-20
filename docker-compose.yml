@@ -16,5 +16,5 @@ web:
         cp -a /tmp/node_modules /usr/src/app/website;
       fi &&
       npm install &&
-      npm run devserver
+      npm start
     '
