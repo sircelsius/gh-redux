@@ -4,7 +4,8 @@
   "description": "GitHub API playground in Reacr + Redux",
   "main": "src/index.js",
   "scripts": {
-    "test": "karma start"
+    "test": "karma start",
+    "start": "node server/index.js"
   },
   "repository": {
     "type": "git",
